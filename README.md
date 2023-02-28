@@ -1,5 +1,5 @@
 # PowerShell_223884-
-Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW 50
+Begleitende Informationen zu den PowerShell Kursen der ppedv AG in KW10
 
 [Kursblatt: Skriptbasierte Verwaltung](https://ppedv.de/schulung/kurse/PowershellAdministrationWindowslWMIActiveDirectoryIIS7cmdletspipelinesPs1Skripte.aspx)
 
